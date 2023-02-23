@@ -46,5 +46,5 @@
 5.1 Resource Group criado:
 ![image](https://user-images.githubusercontent.com/119356073/220226924-10a97ea5-5c49-4261-8dff-972ecc2c391a.png)
 
-###Link do video na prática###
+### Link do video na prática ###
 https://youtu.be/cHy4Utcyf1Q
